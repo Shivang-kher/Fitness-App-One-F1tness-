@@ -9,7 +9,7 @@ Technologies/APIs used:
 2. Rapid API
 
 Setup:
-1. Download this repo by `git clone https://github.com/Shivang-kher/One-F1tness---Fitness-App.git`
+1. Download this repo by `git clone https://github.com/Shivang-kher/Fitness-App-One-F1tness-.git`
 2. Run `npm i` to download all the dependencies and packages
 3. Create a `.env` file to initialize Rapid API key
 4. Run `npm start` to run the server locally 
